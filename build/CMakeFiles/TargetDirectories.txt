@@ -1,0 +1,3 @@
+/home/daixinran/second_assignment_of_dxr/build/CMakeFiles/optimizer.dir
+/home/daixinran/second_assignment_of_dxr/build/CMakeFiles/edit_cache.dir
+/home/daixinran/second_assignment_of_dxr/build/CMakeFiles/rebuild_cache.dir

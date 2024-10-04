@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/daixinran/second_assignment_of_dxr/build",
+  "command": "/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -I/home/daixinran/second_assignment_of_dxr/deps -std=gnu++20 -o CMakeFiles/optimizer.dir/main.cpp.o -c /home/daixinran/second_assignment_of_dxr/main.cpp",
+  "file": "/home/daixinran/second_assignment_of_dxr/main.cpp"
+}
+]
